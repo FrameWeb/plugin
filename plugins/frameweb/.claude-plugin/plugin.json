@@ -1,0 +1,7 @@
+{
+  "name": "frameweb",
+  "description": "Epic Cloud 메타데이터 폼을 만들고 유지보수하는 스킬 플러그인. 첫 샘플로 폼 상태 매트릭스 스킬(frameweb-state)을 담고, 요구사항·디자인·바인딩·스크립트·적재·배포·검증 스킬로 확장한다.",
+  "version": "0.1.0",
+  "author": { "name": "ido", "email": "ido@mupai.studio" },
+  "homepage": "https://mupai.studio"
+}

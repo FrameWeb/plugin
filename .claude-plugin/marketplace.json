@@ -1,0 +1,14 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "frameweb-marketplace",
+  "description": "FrameWeb — Epic Cloud 폼 개발·유지보수 스킬 플러그인",
+  "owner": { "name": "무파이", "email": "ido@mupai.studio" },
+  "plugins": [
+    {
+      "name": "frameweb",
+      "source": "./plugins/frameweb",
+      "description": "Epic Cloud 폼 개발·유지보수 스킬 플러그인. 첫 샘플로 폼 상태 매트릭스 스킬(frameweb-state)을 담고, 폼 라이프사이클 스킬로 확장한다.",
+      "version": "0.1.0"
+    }
+  ]
+}
