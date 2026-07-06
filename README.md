@@ -12,7 +12,7 @@ Epic Cloud 폼 개발·유지보수 스킬을 Claude Code 플러그인으로 배
 │   └── frameweb/             ← frameweb 플러그인 (상세는 plugins/frameweb/README.md)
 │       ├── .claude-plugin/plugin.json
 │       ├── README.md
-│       └── skills/           ← 폼 스킬 (첫 샘플: frameweb-state)
+│       └── skills/           ← 폼 스킬 14종 (frameweb-require ~ frameweb-menu)
 ├── .env.example              ← 스킬용 환경변수 카탈로그 (.env 로 복사해 사용)
 └── README.md                 ← 이 파일
 ```
@@ -21,7 +21,7 @@ Epic Cloud 폼 개발·유지보수 스킬을 Claude Code 플러그인으로 배
 
 | 플러그인 | 설명 |
 |----------|------|
-| `frameweb` | Epic Cloud 폼 개발·유지보수 스킬. 첫 샘플로 폼 상태 매트릭스 스킬(`frameweb-state`)을 담고 폼 라이프사이클 스킬로 확장 |
+| `frameweb` | Epic Cloud 폼 개발·유지보수 스킬 14종. 요구사항 수집·화면 배치·바인딩·스크립트·상태 제어·적재·배포·검증 + 보조(분석·다국어·매뉴얼·메뉴) |
 
 ## 로컬 설치 절차
 
