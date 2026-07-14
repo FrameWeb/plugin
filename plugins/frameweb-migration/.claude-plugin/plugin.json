@@ -1,0 +1,7 @@
+{
+  "name": "frameweb-migration",
+  "description": "FRAME9(EMAX 레거시) → FrameWeb 마이그레이션 마법사 12단계 스킬 플러그인. 단계별 스킬(migration-step00~11)과 전체 지도(migration-frame9)를 담는다. UnSkein에 단계를 카드로 정의하고 한 단계씩 데이터를 확인하며 진행하는 운영 방식을 전제한다.",
+  "version": "0.1.0",
+  "author": { "name": "ido", "email": "ido@mupai.studio" },
+  "homepage": "https://mupai.studio"
+}

@@ -9,6 +9,12 @@
       "source": "./plugins/frameweb",
       "description": "Epic Cloud 폼 개발·유지보수 스킬 14종. 요구사항 수집·화면 배치·바인딩·스크립트·상태 제어·적재·배포·런타임 검증 + 분석·다국어·매뉴얼·메뉴 스킬을 담는다.",
       "version": "0.2.0"
+    },
+    {
+      "name": "frameweb-migration",
+      "source": "./plugins/frameweb-migration",
+      "description": "FRAME9(EMAX 레거시) → FrameWeb 마이그레이션 마법사 12단계 스킬. 단계별 스킬(migration-step00~11) + 전체 지도(migration-frame9). UnSkein 카드로 한 단계씩 데이터 확인하며 진행한다.",
+      "version": "0.1.0"
     }
   ]
 }
