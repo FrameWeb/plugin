@@ -1,7 +1,7 @@
 {
   "name": "frameweb",
-  "description": "Epic Cloud 메타데이터 폼을 만들고 유지보수하는 스킬 플러그인 14종. 요구사항 수집·화면 배치(canvas)·바인딩·폼 스크립트·상태 매트릭스·적재·배포·런타임 검증 + 분석·다국어·사용자 매뉴얼·개발자 메뉴 스킬.",
-  "version": "0.2.0",
+  "description": "Epic Cloud 메타데이터 폼을 만들고 유지보수하는 스킬 플러그인 15종. 요구사항 수집·화면 배치(canvas)·바인딩·폼 스크립트·상태 매트릭스·적재·배포·런타임 검증 + 분석·다국어·사용자 매뉴얼·개발자 메뉴·다이어그램 스킬.",
+  "version": "0.3.0",
   "author": { "name": "ido", "email": "ido@mupai.studio" },
   "homepage": "https://mupai.studio"
 }
